@@ -1,0 +1,124 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Encrypt_bcd7cb4e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Project1Cummings+Evelyn_8787b306"
+        },
+        {
+            "type": "java",
+            "name": "TEST4",
+            "request": "launch",
+            "mainClass": "TEST4",
+            "projectName": "csproject_fc9e4372"
+        },
+        {
+            "type": "java",
+            "name": "TEST",
+            "request": "launch",
+            "mainClass": "TEST",
+            "projectName": "csproject_fc9e4372"
+        },
+        {
+            "type": "java",
+            "name": "CustomEncryption",
+            "request": "launch",
+            "mainClass": "CustomEncryption",
+            "projectName": "csproject_fc9e4372"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "csproject_fc9e4372"
+        },
+        {
+            "type": "java",
+            "name": "Algorithms",
+            "request": "launch",
+            "mainClass": "Algorithms",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "SortingAlgorithms",
+            "request": "launch",
+            "mainClass": "SortingAlgorithms",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSortExample",
+            "request": "launch",
+            "mainClass": "InsertionSortExample",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "Decrypter",
+            "request": "launch",
+            "mainClass": "Decrypter",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "Decryption",
+            "request": "launch",
+            "mainClass": "Decryption",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "StringTo56Bit",
+            "request": "launch",
+            "mainClass": "StringTo56Bit",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "SimpleBlockCipher",
+            "request": "launch",
+            "mainClass": "SimpleBlockCipher",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "Cyphier",
+            "request": "launch",
+            "mainClass": "Cyphier",
+            "projectName": "cs project_f2934071"
+        },
+        {
+            "type": "java",
+            "name": "CharToBin",
+            "request": "launch",
+            "mainClass": "CharToBin",
+            "projectName": "cs project_f2934071"
+        },
+        "vmArgs"
+    ]
+}
